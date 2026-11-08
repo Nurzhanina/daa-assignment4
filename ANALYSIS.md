@@ -83,4 +83,4 @@ For the 3,000-character repetitive text, every one of the 2,701 windows matches.
 
 ## Sources and assistance
 
-The [course template](https://github.com/RZhaniya/daa-assignment-4-archive), its contracts, lesson and practice examples supplied the interfaces, algorithm requirements and public checks. OpenAI Codex implemented the Java methods, wrote the tests and analysis, and ran the verification and benchmark. The evidence above records those runs. No independent student verification is claimed.
+The [course template](https://github.com/RZhaniya/daa-assignment-4-archive), its contracts, lesson and practice examples supplied the interfaces, algorithm requirements and public checks. An AI assistant explained the requirements, implemented the Java methods, wrote the tests and analysis, and ran the checks and benchmark.
