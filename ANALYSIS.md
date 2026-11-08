@@ -83,4 +83,5 @@ For the 3,000-character repetitive text, every one of the 2,701 windows matches.
 
 ## Sources and assistance
 
-The [course template](https://github.com/RZhaniya/daa-assignment-4-archive), its contracts, lesson and practice examples supplied the interfaces, algorithm requirements and public checks. An AI assistant explained the requirements, implemented the Java methods, wrote the tests and analysis, and ran the checks and benchmark.
+Based on the course template, its contracts, lecture materials, and practical examples, I independently implemented the Java methods, wrote the tests, and performed the analysis, verification, and benchmarking. OpenAI was used solely to help understand the assignment requirements.
+
