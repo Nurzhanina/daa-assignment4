@@ -1,0 +1,12 @@
+PASS 50 explicit fixtures, 280 randomized requests, 660 mixed requests including reset
+PASS alternative optima and invalid witnesses for LCS, merge, tree and suffix
+PASS LCS 1000 x 1000
+PASS merge 200 blocks, 64-bit total
+PASS tree chain of 100000
+PASS naive max dimensions
+PASS KMP max dimensions
+PASS RK max product
+PASS RK max pattern length
+PASS suffix 50000 equal characters, full SA, LCP and longest repeat
+PASS Aho deep trie and maximum text
+PASS Aho 10000 patterns, 100 texts and 1000000 counts

@@ -1,0 +1,50 @@
+{"task": "lcs", "a": "", "b": ""}
+{"task": "lcs", "a": "", "b": "x"}
+{"task": "lcs", "a": "x", "b": ""}
+{"task": "lcs", "a": "abc", "b": "bac"}
+{"task": "lcs", "a": "aa! a", "b": "a a"}
+{"task": "lcs", "a": "aXbYc", "b": "abc"}
+{"task": "merge", "sizes": []}
+{"task": "merge", "sizes": [7]}
+{"task": "merge", "sizes": [0, 0, 0]}
+{"task": "merge", "sizes": [1, 100, 1]}
+{"task": "merge", "sizes": [1000000000, 1000000000, 1000000000, 1000000000]}
+{"task": "tree", "n": 0, "weights": [], "edges": []}
+{"task": "tree", "n": 1, "weights": [-9], "edges": []}
+{"task": "tree", "n": 1, "weights": [0], "edges": []}
+{"task": "tree", "n": 2, "weights": [-3, -4], "edges": [[0, 1]]}
+{"task": "tree", "n": 2, "weights": [7, 7], "edges": [[0, 1]]}
+{"task": "naive", "text": "", "pattern": ""}
+{"task": "kmp", "text": "", "pattern": ""}
+{"task": "rk", "text": "", "pattern": ""}
+{"task": "naive", "text": "", "pattern": "x"}
+{"task": "kmp", "text": "", "pattern": "x"}
+{"task": "rk", "text": "", "pattern": "x"}
+{"task": "naive", "text": "xy", "pattern": "xyz"}
+{"task": "kmp", "text": "xy", "pattern": "xyz"}
+{"task": "rk", "text": "xy", "pattern": "xyz"}
+{"task": "naive", "text": "aaa", "pattern": ""}
+{"task": "kmp", "text": "aaa", "pattern": ""}
+{"task": "rk", "text": "aaa", "pattern": ""}
+{"task": "naive", "text": "aaaaa", "pattern": "aaa"}
+{"task": "kmp", "text": "aaaaa", "pattern": "aaa"}
+{"task": "rk", "text": "aaaaa", "pattern": "aaa"}
+{"task": "naive", "text": "dj ab!dj ab", "pattern": "ab"}
+{"task": "kmp", "text": "dj ab!dj ab", "pattern": "ab"}
+{"task": "rk", "text": "dj ab!dj ab", "pattern": "ab"}
+{"task": "naive", "text": "Ab aB! Ab", "pattern": "Ab"}
+{"task": "kmp", "text": "Ab aB! Ab", "pattern": "Ab"}
+{"task": "rk", "text": "Ab aB! Ab", "pattern": "Ab"}
+{"task": "naive", "text": "~~~~~  ", "pattern": "~ "}
+{"task": "kmp", "text": "~~~~~  ", "pattern": "~ "}
+{"task": "rk", "text": "~~~~~  ", "pattern": "~ "}
+{"task": "suffix", "text": ""}
+{"task": "suffix", "text": "x"}
+{"task": "suffix", "text": "zyx"}
+{"task": "suffix", "text": "aaaa"}
+{"task": "suffix", "text": "banana"}
+{"task": "suffix", "text": "abXabYcdZcd"}
+{"task": "aho", "patterns": [], "texts": ["", "a"]}
+{"task": "aho", "patterns": ["a"], "texts": []}
+{"task": "aho", "patterns": ["he", "she", "he", "e"], "texts": ["shehe", "", "shehe"]}
+{"task": "aho", "patterns": ["a", "aa", "a"], "texts": ["aaaa", "a", "aaaa"]}
